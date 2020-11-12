@@ -18,11 +18,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'ALF BOT'; 
-const instagram = 'https://instagram.com/aditiaalfians'; 
-const whatsapp = 'wa.me/6285799496179'; 
+const BotName = 'TBGBOT'; 
+const youtube = 'https://www.youtube.com/channel/UC9UHMKYpr99Wfb2uL2mK44A'; 
+const whatsapp = 'wa.me/6289531424500'; 
 const kapanbotaktif = '24 JAM'; 
-//const grupch1 = 'belum ada grup'; 
+const grupch1 = 'https://chat.whatsapp.com/BazCpaxbntdAqDyWy5NwO8'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
